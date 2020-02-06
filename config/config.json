@@ -1,7 +1,7 @@
 {
     "development": {
       "username": "root",
-      "password": "",
+      "password": "esabatad5",
       "database": "myooz_database",
       "host": "127.0.0.1",
       "dialect": "mysql"
